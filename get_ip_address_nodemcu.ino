@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
-#define WLAN_SSID       "NETGEAR84"
-#define WLAN_PASS       "jaggedmint120"
+#define WLAN_SSID       "<Your_SSID_here>"
+#define WLAN_PASS       "<Your_Password_here>"
 
 void setup() {
   // put your setup code here, to run once:

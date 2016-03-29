@@ -7,3 +7,5 @@ It is required to populate this code with the right SSID and the Password to con
 To use this :  Upload this code using the Arduino IDE to NodeMCU connected via the serial port ( e.g: SLAB_USBtoUART) and use a serial monitor like CoolTerm to see the output.
 
 ![My image](https://cloud.githubusercontent.com/assets/14288989/14097052/23acac3e-f58b-11e5-81fe-fbb556f086e3.png)
+
+![My image](https://cloud.githubusercontent.com/assets/14288989/14098923/52df8676-f59e-11e5-9cbe-09caa2b8391a.png")
